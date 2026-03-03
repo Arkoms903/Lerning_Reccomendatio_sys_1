@@ -1,0 +1,1124 @@
+user_id,topic_id,completion_status,time_spent,rating
+U001,T018,Completed,8.7,4
+U001,T042,In Progress,2.6,0
+U001,T112,Completed,6.0,3
+U001,T109,Not Started,0.0,0
+U001,T044,In Progress,3.3,0
+U001,T075,Completed,7.5,3
+U001,T072,In Progress,3.5,0
+U001,T067,Completed,7.1,3
+U001,T039,Completed,7.5,5
+U001,T119,Skipped,1.5,2
+U001,T096,Completed,9.8,4
+U001,T094,Completed,8.5,5
+U001,T012,Skipped,0.6,2
+U001,T007,In Progress,3.4,0
+U001,T015,Completed,4.4,5
+U001,T020,Completed,6.1,4
+U001,T061,Completed,4.4,3
+U001,T011,Skipped,1.8,3
+U001,T071,Completed,7.1,5
+U001,T064,Completed,5.8,5
+U001,T038,Completed,4.6,3
+U001,T059,Completed,4.4,3
+U001,T005,Completed,2.8,5
+U001,T035,Completed,4.6,3
+U001,T086,In Progress,1.4,0
+U001,T088,Completed,7.2,3
+U001,T040,Completed,7.3,5
+U001,T115,Completed,7.0,4
+U001,T017,In Progress,1.8,0
+U001,T046,Completed,9.1,4
+U001,T001,Completed,5.8,3
+U001,T090,Completed,9.0,3
+U001,T117,Completed,8.3,3
+U002,T035,In Progress,1.9,0
+U002,T119,In Progress,3.1,0
+U002,T109,Skipped,1.7,1
+U002,T088,Completed,14.3,4
+U002,T018,Not Started,0.0,0
+U002,T075,In Progress,3.4,0
+U002,T034,In Progress,2.8,0
+U002,T046,In Progress,5.8,0
+U002,T090,In Progress,2.7,0
+U002,T042,Completed,8.6,5
+U002,T010,In Progress,3.4,0
+U002,T087,Completed,10.9,5
+U002,T013,Not Started,0.0,0
+U002,T007,In Progress,1.1,0
+U002,T002,In Progress,3.1,0
+U002,T012,Completed,6.2,3
+U002,T111,In Progress,4.0,0
+U003,T115,Completed,9.5,3
+U003,T117,Skipped,2.5,1
+U003,T006,Completed,4.7,5
+U003,T011,In Progress,3.5,0
+U003,T074,Not Started,0.0,0
+U003,T113,In Progress,1.4,0
+U003,T097,In Progress,3.1,0
+U003,T061,In Progress,3.3,0
+U003,T044,Completed,9.3,3
+U003,T037,In Progress,1.7,0
+U003,T112,Completed,7.7,4
+U003,T041,Completed,7.6,4
+U003,T111,Completed,5.9,3
+U003,T071,Completed,9.2,4
+U003,T017,Completed,6.0,3
+U003,T059,Completed,4.9,5
+U003,T040,Completed,8.9,5
+U003,T031,Completed,5.5,5
+U003,T090,Skipped,1.9,2
+U003,T069,Completed,6.6,3
+U003,T005,Completed,4.0,3
+U003,T001,In Progress,1.8,0
+U003,T093,Completed,9.3,5
+U003,T060,In Progress,2.4,0
+U003,T047,Completed,9.5,3
+U003,T007,In Progress,3.4,0
+U003,T089,In Progress,4.5,0
+U004,T023,Completed,9.4,3
+U004,T095,Completed,9.9,4
+U004,T119,Completed,6.7,4
+U004,T043,Completed,7.7,5
+U004,T101,Not Started,0.0,0
+U004,T120,Completed,11.8,3
+U004,T053,In Progress,4.3,0
+U004,T103,Completed,15.9,3
+U004,T086,Completed,5.0,5
+U004,T111,In Progress,2.5,0
+U004,T124,Not Started,0.0,0
+U004,T104,Completed,12.6,3
+U004,T032,Completed,6.4,3
+U004,T035,Completed,5.7,5
+U004,T021,In Progress,4.6,0
+U004,T121,Completed,8.9,3
+U004,T090,Skipped,2.6,3
+U004,T014,Completed,6.7,5
+U004,T049,Skipped,2.4,3
+U004,T005,Completed,3.3,4
+U004,T061,Completed,3.8,5
+U004,T029,Skipped,2.8,1
+U004,T026,Completed,7.9,5
+U004,T059,In Progress,1.8,0
+U004,T045,Completed,8.4,5
+U005,T060,Completed,5.3,3
+U005,T057,In Progress,5.1,0
+U005,T124,Completed,9.7,5
+U005,T087,Completed,6.5,3
+U005,T028,In Progress,3.4,0
+U005,T066,In Progress,3.8,0
+U005,T061,Completed,4.3,3
+U005,T102,Completed,14.1,5
+U005,T116,Completed,6.9,4
+U005,T118,Not Started,0.0,0
+U005,T095,In Progress,5.6,0
+U005,T022,In Progress,4.1,0
+U005,T085,In Progress,5.7,0
+U005,T011,In Progress,4.0,0
+U005,T037,Completed,4.7,3
+U005,T120,In Progress,4.1,0
+U005,T113,In Progress,3.1,0
+U005,T082,Completed,9.2,5
+U005,T080,Completed,7.8,4
+U005,T043,In Progress,2.2,0
+U005,T012,Completed,4.1,3
+U005,T097,In Progress,2.1,0
+U005,T031,Completed,5.2,4
+U005,T122,Completed,11.4,4
+U005,T040,Skipped,1.7,3
+U005,T029,Completed,11.6,5
+U005,T026,Completed,7.0,4
+U005,T019,Completed,4.1,4
+U005,T004,Completed,4.6,5
+U005,T006,In Progress,2.2,0
+U005,T032,Completed,5.9,4
+U005,T119,Completed,6.3,4
+U005,T079,In Progress,8.1,0
+U005,T010,Skipped,1.8,3
+U005,T059,Completed,4.1,5
+U006,T011,Completed,7.5,3
+U006,T075,In Progress,3.7,0
+U006,T018,Not Started,0.0,0
+U006,T090,Completed,13.2,4
+U006,T034,Completed,4.3,3
+U007,T065,Completed,4.8,5
+U007,T039,Completed,7.9,5
+U007,T009,Skipped,0.9,3
+U007,T006,Completed,4.4,5
+U007,T004,Completed,4.5,4
+U007,T042,In Progress,3.5,0
+U007,T036,Completed,7.0,3
+U007,T003,Completed,5.0,4
+U007,T020,Completed,6.3,3
+U007,T041,In Progress,4.3,0
+U007,T017,Completed,5.9,5
+U007,T091,In Progress,5.2,0
+U007,T015,Completed,4.5,5
+U007,T038,Not Started,0.0,0
+U007,T090,Completed,8.5,5
+U007,T043,In Progress,3.9,0
+U007,T070,In Progress,5.0,0
+U007,T034,Completed,3.9,3
+U007,T011,Completed,5.8,4
+U007,T059,Completed,4.5,4
+U007,T095,Completed,10.5,3
+U007,T068,Completed,7.3,4
+U007,T066,Completed,6.7,5
+U007,T008,In Progress,2.9,0
+U007,T093,Completed,7.6,3
+U007,T073,In Progress,3.6,0
+U008,T091,In Progress,8.1,0
+U008,T093,In Progress,3.0,0
+U008,T088,In Progress,2.7,0
+U008,T003,Completed,6.8,5
+U008,T012,Completed,4.7,3
+U008,T048,Completed,12.1,4
+U008,T039,Completed,10.6,4
+U008,T072,Completed,9.2,4
+U008,T042,In Progress,1.8,0
+U008,T060,In Progress,2.7,0
+U008,T068,In Progress,4.4,0
+U008,T119,Completed,7.2,3
+U008,T065,Not Started,0.0,0
+U008,T075,Completed,11.6,3
+U008,T063,In Progress,3.2,0
+U008,T066,Completed,7.6,3
+U008,T097,Completed,10.3,4
+U008,T040,Completed,7.8,5
+U008,T018,In Progress,4.5,0
+U008,T020,In Progress,2.2,0
+U008,T017,Completed,6.2,4
+U008,T015,Completed,6.5,4
+U008,T008,Completed,6.5,5
+U008,T067,Not Started,0.0,0
+U008,T013,Completed,9.0,5
+U008,T031,Completed,6.6,3
+U008,T087,Completed,7.5,3
+U009,T053,Completed,10.0,3
+U009,T058,Skipped,2.7,1
+U009,T089,Completed,6.6,5
+U009,T077,In Progress,5.8,0
+U009,T061,Completed,3.7,5
+U009,T038,Completed,4.9,4
+U009,T005,Completed,3.4,3
+U009,T030,Completed,13.5,5
+U009,T037,Completed,4.7,3
+U009,T091,Completed,10.8,5
+U009,T117,Completed,6.4,5
+U009,T090,In Progress,4.4,0
+U009,T111,In Progress,1.7,0
+U009,T059,Completed,4.2,4
+U009,T010,Completed,5.3,5
+U009,T088,In Progress,5.5,0
+U009,T118,Completed,8.2,4
+U009,T034,Completed,4.8,4
+U009,T101,Completed,11.9,5
+U009,T102,Skipped,3.9,3
+U009,T081,Completed,8.7,4
+U009,T076,Completed,10.9,4
+U009,T085,In Progress,7.3,0
+U009,T026,Completed,9.6,4
+U009,T055,Completed,11.3,4
+U010,T081,Completed,11.8,4
+U010,T057,Not Started,0.0,0
+U010,T098,Completed,8.5,4
+U010,T007,Completed,5.4,5
+U010,T027,In Progress,6.3,0
+U010,T035,Completed,6.8,4
+U010,T071,Completed,10.2,4
+U010,T017,In Progress,2.0,0
+U010,T037,Completed,6.5,5
+U010,T124,Completed,12.3,5
+U010,T113,Completed,7.0,5
+U010,T090,Completed,10.6,3
+U010,T063,Not Started,0.0,0
+U010,T016,Completed,8.1,4
+U010,T004,Completed,5.6,5
+U010,T125,Skipped,2.1,3
+U010,T078,In Progress,5.8,0
+U010,T103,Completed,19.0,3
+U010,T031,Completed,6.5,3
+U010,T091,In Progress,5.0,0
+U010,T021,Completed,8.3,5
+U010,T040,Completed,9.3,3
+U010,T119,Completed,7.9,4
+U010,T002,Completed,5.5,5
+U010,T108,Completed,12.0,5
+U010,T053,In Progress,5.1,0
+U010,T012,Completed,5.6,4
+U010,T029,In Progress,2.6,0
+U010,T015,Completed,6.5,4
+U010,T060,Not Started,0.0,0
+U010,T112,In Progress,3.3,0
+U010,T083,Completed,15.3,3
+U010,T020,Completed,7.8,3
+U010,T064,Completed,8.0,4
+U010,T038,Completed,6.2,3
+U011,T113,Skipped,0.9,2
+U011,T034,Not Started,0.0,0
+U011,T032,Not Started,0.0,0
+U011,T033,Completed,7.4,5
+U011,T011,Completed,9.7,3
+U011,T069,Not Started,0.0,0
+U011,T041,Not Started,0.0,0
+U011,T094,Completed,11.7,4
+U011,T019,In Progress,3.5,0
+U011,T040,Completed,11.9,5
+U011,T090,In Progress,1.8,0
+U011,T043,Not Started,0.0,0
+U011,T089,Skipped,2.1,3
+U011,T098,Skipped,2.1,2
+U011,T002,Skipped,0.7,2
+U011,T109,Completed,5.6,4
+U011,T088,Skipped,2.0,3
+U011,T111,Skipped,0.8,1
+U012,T040,Skipped,0.9,2
+U012,T101,In Progress,5.7,0
+U012,T057,Completed,17.6,4
+U012,T005,In Progress,2.6,0
+U012,T075,Not Started,0.0,0
+U012,T047,Completed,13.8,4
+U013,T064,Completed,10.0,5
+U013,T015,Not Started,0.0,0
+U013,T090,Completed,12.1,3
+U013,T010,In Progress,4.0,0
+U013,T019,Completed,7.8,5
+U013,T039,Completed,16.9,5
+U013,T071,Completed,13.0,3
+U013,T112,Completed,9.8,4
+U013,T067,Completed,10.7,5
+U013,T012,Completed,7.4,5
+U013,T113,Not Started,0.0,0
+U013,T002,In Progress,2.4,0
+U013,T044,In Progress,5.6,0
+U013,T016,Skipped,1.8,2
+U013,T089,In Progress,4.7,0
+U013,T068,Completed,14.5,3
+U013,T119,In Progress,4.7,0
+U013,T094,Skipped,1.3,3
+U013,T093,Completed,17.4,5
+U014,T008,In Progress,3.6,0
+U014,T051,Completed,10.8,3
+U014,T036,Not Started,0.0,0
+U014,T025,Completed,12.5,3
+U014,T016,In Progress,1.7,0
+U014,T109,Completed,6.8,3
+U014,T106,Completed,16.3,4
+U014,T059,Completed,5.6,5
+U014,T012,Completed,4.6,4
+U014,T085,In Progress,5.5,0
+U014,T028,Completed,11.6,5
+U014,T083,Completed,15.9,5
+U014,T082,Completed,11.4,3
+U014,T077,Completed,12.5,4
+U014,T003,Completed,5.6,5
+U014,T007,Skipped,0.6,1
+U014,T101,Completed,13.2,3
+U014,T043,Completed,9.8,5
+U014,T032,In Progress,2.7,0
+U014,T017,Completed,5.9,5
+U014,T120,Completed,11.2,5
+U014,T073,Completed,8.8,5
+U014,T027,In Progress,3.1,0
+U014,T009,Completed,4.8,4
+U014,T098,In Progress,3.2,0
+U014,T071,In Progress,3.2,0
+U014,T103,Completed,15.6,3
+U014,T076,In Progress,4.8,0
+U014,T115,Completed,8.3,4
+U014,T030,Completed,15.7,3
+U014,T108,Completed,12.9,5
+U015,T086,In Progress,2.9,0
+U015,T016,Completed,10.1,3
+U015,T053,Not Started,0.0,0
+U015,T046,In Progress,5.3,0
+U015,T112,Completed,8.0,3
+U015,T121,Not Started,0.0,0
+U015,T097,Not Started,0.0,0
+U015,T055,Not Started,0.0,0
+U015,T118,Not Started,0.0,0
+U015,T093,Skipped,2.3,1
+U015,T007,Skipped,1.2,3
+U015,T124,Completed,12.0,5
+U015,T037,Skipped,1.7,2
+U015,T077,Completed,16.9,5
+U015,T040,Skipped,0.9,3
+U016,T012,In Progress,2.9,0
+U016,T098,In Progress,1.9,0
+U016,T038,Completed,7.8,5
+U016,T069,Completed,8.7,4
+U016,T074,In Progress,4.0,0
+U016,T089,In Progress,2.4,0
+U016,T064,In Progress,1.8,0
+U016,T031,In Progress,2.0,0
+U016,T068,In Progress,4.0,0
+U016,T060,In Progress,1.3,0
+U017,T077,Completed,14.1,4
+U017,T008,Completed,6.4,5
+U017,T001,Completed,5.9,4
+U017,T027,Completed,10.0,5
+U017,T039,Completed,11.1,4
+U017,T028,Completed,12.7,3
+U017,T099,Completed,15.3,3
+U017,T018,Completed,8.9,4
+U017,T098,Completed,9.1,3
+U017,T033,Completed,4.7,5
+U017,T038,Completed,6.8,4
+U017,T042,In Progress,4.3,0
+U017,T016,In Progress,2.5,0
+U017,T123,Completed,9.6,5
+U017,T064,Completed,7.9,3
+U017,T096,Completed,11.3,4
+U017,T056,Completed,11.8,5
+U017,T023,Completed,11.8,5
+U017,T017,Completed,7.2,4
+U017,T049,In Progress,6.2,0
+U017,T069,Completed,6.4,4
+U017,T091,Completed,13.7,5
+U017,T030,Completed,14.7,4
+U017,T065,Completed,5.5,4
+U017,T072,In Progress,2.4,0
+U017,T086,In Progress,3.8,0
+U017,T046,Completed,11.6,4
+U017,T010,Completed,7.1,5
+U017,T051,In Progress,4.7,0
+U017,T095,In Progress,5.8,0
+U017,T006,Completed,5.2,3
+U017,T109,Not Started,0.0,0
+U018,T014,Completed,5.2,4
+U018,T064,Completed,6.3,5
+U018,T011,Completed,6.1,3
+U018,T095,Completed,8.9,4
+U018,T033,In Progress,2.7,0
+U018,T006,In Progress,2.8,0
+U018,T042,Completed,6.0,5
+U018,T087,Completed,6.0,3
+U018,T112,Completed,6.0,3
+U018,T098,Completed,7.4,3
+U018,T097,Completed,6.7,3
+U018,T031,Completed,5.6,5
+U018,T067,In Progress,4.9,0
+U018,T068,In Progress,2.0,0
+U018,T047,Completed,9.3,3
+U018,T070,Completed,7.5,3
+U018,T037,In Progress,3.5,0
+U018,T094,In Progress,3.1,0
+U018,T032,Completed,5.8,5
+U018,T118,In Progress,6.8,0
+U018,T059,Completed,4.6,4
+U018,T004,Completed,3.9,4
+U018,T071,Skipped,1.2,3
+U018,T061,Skipped,1.5,2
+U018,T062,In Progress,3.5,0
+U018,T091,Completed,9.9,3
+U018,T005,In Progress,2.4,0
+U018,T074,Completed,7.0,5
+U018,T007,Completed,4.1,3
+U018,T046,In Progress,5.0,0
+U018,T090,Completed,6.5,3
+U018,T035,Completed,5.8,3
+U018,T019,In Progress,1.2,0
+U018,T017,Skipped,1.6,2
+U018,T063,Skipped,1.5,2
+U018,T089,Completed,5.4,3
+U018,T010,Completed,4.3,3
+U018,T072,In Progress,5.2,0
+U018,T114,In Progress,2.7,0
+U019,T091,Completed,10.6,3
+U019,T018,In Progress,5.4,0
+U019,T119,In Progress,1.8,0
+U019,T088,Not Started,0.0,0
+U019,T001,In Progress,1.2,0
+U019,T011,In Progress,2.2,0
+U019,T003,Completed,6.6,5
+U019,T043,In Progress,4.4,0
+U019,T038,Completed,7.6,5
+U019,T020,Not Started,0.0,0
+U019,T098,Completed,9.3,5
+U019,T075,Skipped,2.0,1
+U019,T015,In Progress,2.6,0
+U019,T047,Skipped,3.0,2
+U020,T046,In Progress,6.4,0
+U020,T101,Completed,19.8,4
+U020,T009,Skipped,0.7,3
+U020,T045,In Progress,4.9,0
+U020,T031,In Progress,3.6,0
+U020,T094,Completed,18.3,4
+U020,T085,Completed,15.9,3
+U020,T081,Skipped,2.0,2
+U020,T014,In Progress,4.9,0
+U020,T099,In Progress,4.9,0
+U021,T047,Not Started,0.0,0
+U021,T066,In Progress,4.2,0
+U021,T007,In Progress,1.2,0
+U021,T063,In Progress,4.9,0
+U021,T045,In Progress,3.2,0
+U021,T016,Completed,12.8,4
+U021,T068,In Progress,5.0,0
+U021,T086,Completed,8.8,4
+U021,T072,Completed,17.2,4
+U021,T087,In Progress,2.9,0
+U021,T070,In Progress,6.0,0
+U021,T064,Completed,11.2,4
+U021,T034,Completed,8.4,5
+U021,T094,Completed,13.4,5
+U021,T096,In Progress,4.2,0
+U021,T113,Completed,9.4,5
+U022,T047,In Progress,3.6,0
+U022,T050,Completed,19.1,3
+U022,T122,Skipped,2.4,2
+U022,T073,Not Started,0.0,0
+U022,T005,Completed,5.4,5
+U022,T078,In Progress,7.7,0
+U022,T020,Completed,10.1,4
+U022,T087,Completed,6.3,3
+U022,T058,In Progress,6.5,0
+U022,T048,In Progress,2.9,0
+U022,T057,Skipped,3.5,2
+U022,T098,Skipped,1.9,3
+U022,T010,In Progress,3.9,0
+U022,T074,Not Started,0.0,0
+U022,T018,Skipped,2.6,3
+U022,T068,Completed,9.5,3
+U023,T026,Completed,9.9,5
+U023,T102,Completed,12.6,5
+U023,T018,Completed,8.7,5
+U023,T031,Completed,4.5,3
+U023,T124,Completed,12.7,3
+U023,T064,In Progress,3.2,0
+U023,T004,Completed,3.7,5
+U023,T047,Completed,9.8,5
+U023,T071,In Progress,5.6,0
+U023,T074,Completed,8.0,5
+U023,T048,Completed,10.7,5
+U023,T060,Completed,5.1,3
+U023,T103,Completed,14.0,3
+U023,T117,Completed,8.2,5
+U023,T017,Completed,5.9,3
+U023,T079,In Progress,2.8,0
+U023,T012,Completed,4.5,5
+U023,T009,Completed,3.8,5
+U023,T040,Completed,7.1,4
+U023,T051,In Progress,5.2,0
+U023,T092,Completed,7.9,3
+U023,T093,In Progress,5.4,0
+U023,T062,Completed,4.3,3
+U023,T068,Completed,7.4,4
+U023,T053,Completed,11.5,4
+U023,T099,In Progress,5.4,0
+U023,T101,Not Started,0.0,0
+U023,T116,Completed,6.6,4
+U024,T041,Completed,5.5,3
+U024,T031,Completed,4.9,4
+U024,T060,Not Started,0.0,0
+U024,T016,Completed,6.4,3
+U024,T035,Completed,5.3,5
+U024,T058,Completed,7.9,3
+U024,T032,In Progress,2.9,0
+U024,T019,In Progress,2.8,0
+U024,T013,In Progress,3.1,0
+U024,T007,Completed,4.4,3
+U024,T038,Completed,4.7,4
+U024,T050,Completed,12.1,4
+U024,T111,In Progress,3.1,0
+U024,T079,Completed,9.6,3
+U024,T054,Completed,11.3,4
+U024,T119,Completed,5.7,3
+U024,T021,Completed,6.8,5
+U024,T105,Completed,12.1,5
+U024,T042,Completed,5.9,4
+U024,T074,Completed,8.7,3
+U024,T093,Completed,8.8,3
+U024,T125,Completed,10.6,4
+U024,T025,Completed,9.4,5
+U024,T098,Completed,7.3,4
+U024,T109,Completed,4.2,4
+U024,T064,Completed,7.0,5
+U024,T066,Completed,6.8,5
+U024,T123,Completed,8.8,4
+U025,T093,Not Started,0.0,0
+U025,T007,Completed,6.1,4
+U025,T075,In Progress,4.1,0
+U025,T062,Completed,9.0,5
+U025,T022,Not Started,0.0,0
+U025,T068,Skipped,2.2,1
+U025,T081,In Progress,5.5,0
+U025,T080,In Progress,7.0,0
+U025,T100,In Progress,6.2,0
+U025,T108,Not Started,0.0,0
+U025,T049,In Progress,5.6,0
+U025,T019,In Progress,2.7,0
+U025,T106,Skipped,4.3,3
+U025,T088,Completed,11.9,3
+U025,T032,Completed,9.7,4
+U025,T005,In Progress,2.2,0
+U025,T074,In Progress,4.0,0
+U026,T045,Not Started,0.0,0
+U026,T072,In Progress,5.7,0
+U026,T120,Completed,20.4,4
+U026,T123,Not Started,0.0,0
+U026,T102,In Progress,4.0,0
+U026,T093,In Progress,4.9,0
+U026,T036,Completed,11.2,5
+U026,T037,Completed,8.0,3
+U026,T016,In Progress,4.5,0
+U026,T074,Completed,15.0,3
+U026,T087,Not Started,0.0,0
+U026,T070,Not Started,0.0,0
+U026,T049,Completed,19.1,4
+U026,T051,In Progress,3.3,0
+U026,T105,Not Started,0.0,0
+U026,T125,Completed,19.1,3
+U026,T099,In Progress,4.7,0
+U026,T103,In Progress,10.0,0
+U026,T019,Completed,8.8,4
+U026,T038,Skipped,0.8,1
+U026,T006,Not Started,0.0,0
+U026,T118,Completed,15.0,5
+U026,T092,Not Started,0.0,0
+U026,T011,Not Started,0.0,0
+U026,T110,Skipped,0.5,3
+U027,T119,In Progress,1.4,0
+U027,T043,Completed,8.9,5
+U027,T037,In Progress,1.7,0
+U027,T059,In Progress,3.2,0
+U027,T083,In Progress,6.4,0
+U027,T070,Completed,11.0,3
+U027,T068,Not Started,0.0,0
+U027,T064,Completed,8.3,3
+U027,T114,Completed,9.7,4
+U027,T018,Not Started,0.0,0
+U027,T109,Completed,6.7,3
+U027,T065,Completed,6.0,3
+U027,T060,Completed,5.6,4
+U027,T035,Completed,6.6,5
+U027,T025,In Progress,6.0,0
+U027,T104,Completed,15.4,4
+U027,T015,Completed,5.8,3
+U027,T124,Completed,13.5,5
+U027,T021,Completed,8.9,4
+U027,T094,In Progress,6.6,0
+U027,T122,In Progress,7.0,0
+U027,T121,In Progress,5.5,0
+U027,T033,In Progress,2.3,0
+U028,T010,In Progress,3.4,0
+U028,T113,Completed,5.0,4
+U028,T015,In Progress,2.8,0
+U028,T008,Completed,5.8,4
+U028,T111,Completed,4.9,3
+U028,T095,In Progress,7.6,0
+U028,T036,Completed,5.8,4
+U028,T109,Completed,5.9,4
+U028,T020,Completed,6.3,5
+U028,T032,In Progress,1.9,0
+U028,T062,In Progress,1.6,0
+U028,T097,Not Started,0.0,0
+U028,T087,Completed,5.2,3
+U028,T117,In Progress,5.2,0
+U028,T037,Not Started,0.0,0
+U028,T093,Completed,9.2,4
+U028,T006,Completed,4.7,3
+U028,T088,Completed,6.0,3
+U028,T043,Skipped,2.2,1
+U028,T039,Completed,9.0,5
+U028,T072,In Progress,6.4,0
+U028,T004,Completed,3.8,3
+U028,T040,Completed,6.7,5
+U028,T009,In Progress,1.1,0
+U028,T091,In Progress,4.8,0
+U028,T114,Completed,7.7,3
+U028,T098,Completed,8.0,3
+U028,T047,In Progress,5.7,0
+U028,T092,Completed,8.8,5
+U028,T046,In Progress,3.5,0
+U028,T073,In Progress,5.5,0
+U028,T064,Completed,5.8,4
+U028,T115,Completed,8.9,5
+U028,T002,Skipped,1.1,2
+U028,T118,Completed,7.1,4
+U028,T017,Skipped,1.4,3
+U029,T090,Completed,8.3,4
+U029,T054,In Progress,3.0,0
+U029,T053,In Progress,3.8,0
+U029,T020,Completed,7.7,5
+U029,T039,Completed,9.2,5
+U029,T049,In Progress,5.8,0
+U029,T024,Completed,13.9,4
+U029,T097,Completed,10.6,3
+U029,T069,Skipped,2.0,1
+U029,T061,In Progress,2.9,0
+U029,T031,Skipped,1.4,3
+U029,T109,Completed,7.0,5
+U029,T029,Completed,11.8,4
+U029,T121,Completed,11.1,4
+U029,T110,Completed,5.8,4
+U029,T091,Completed,14.3,4
+U029,T019,In Progress,1.8,0
+U029,T104,Completed,12.9,3
+U029,T060,Completed,5.8,3
+U029,T008,Completed,6.4,5
+U029,T072,Completed,10.3,3
+U029,T123,Completed,9.7,5
+U029,T124,In Progress,5.8,0
+U029,T105,In Progress,9.2,0
+U029,T068,Completed,10.3,5
+U029,T018,Completed,9.4,3
+U029,T050,In Progress,4.9,0
+U029,T032,Completed,7.4,3
+U029,T033,Skipped,1.0,3
+U029,T027,Not Started,0.0,0
+U030,T010,Completed,4.7,5
+U030,T007,In Progress,2.7,0
+U030,T001,In Progress,3.9,0
+U030,T073,Completed,5.8,3
+U030,T018,Completed,8.0,4
+U030,T040,In Progress,2.7,0
+U030,T009,Completed,4.1,4
+U030,T020,Completed,5.4,5
+U030,T002,Completed,4.5,3
+U030,T038,Completed,5.7,3
+U030,T095,Completed,9.0,5
+U030,T089,Completed,6.2,5
+U030,T068,Completed,7.6,4
+U030,T008,Completed,4.8,3
+U030,T092,In Progress,6.6,0
+U030,T093,Completed,9.7,5
+U030,T111,In Progress,2.6,0
+U030,T117,Completed,6.5,4
+U030,T045,In Progress,4.3,0
+U030,T046,Completed,10.8,4
+U030,T037,Completed,4.6,3
+U030,T109,In Progress,3.3,0
+U030,T094,Completed,8.0,3
+U030,T044,Completed,8.7,4
+U030,T067,Completed,6.9,4
+U030,T115,In Progress,2.4,0
+U031,T065,Completed,5.4,5
+U031,T096,Completed,9.3,4
+U031,T045,In Progress,5.0,0
+U031,T007,Completed,3.7,5
+U031,T013,In Progress,2.2,0
+U031,T056,Completed,8.9,3
+U031,T030,Completed,11.1,4
+U031,T108,In Progress,3.0,0
+U031,T010,Completed,5.0,5
+U031,T044,Completed,8.2,3
+U031,T078,Completed,9.5,5
+U031,T099,Completed,12.0,4
+U031,T079,Completed,10.7,3
+U031,T077,In Progress,5.8,0
+U031,T051,Not Started,0.0,0
+U031,T100,Completed,13.7,5
+U031,T042,Completed,5.2,4
+U031,T004,Completed,3.7,3
+U031,T082,Completed,9.1,4
+U031,T035,In Progress,2.3,0
+U031,T101,Skipped,3.4,2
+U031,T058,Completed,7.6,3
+U031,T063,Completed,5.6,4
+U031,T119,Completed,6.2,4
+U031,T046,Completed,9.1,5
+U031,T071,Not Started,0.0,0
+U031,T049,Completed,9.6,5
+U032,T062,Skipped,1.1,1
+U032,T041,Not Started,0.0,0
+U032,T023,Completed,18.0,3
+U032,T124,In Progress,6.2,0
+U032,T051,Not Started,0.0,0
+U032,T038,In Progress,3.3,0
+U032,T095,In Progress,3.8,0
+U032,T089,In Progress,4.3,0
+U032,T082,In Progress,4.5,0
+U032,T063,In Progress,4.1,0
+U032,T074,Completed,14.4,5
+U032,T101,In Progress,5.4,0
+U032,T032,In Progress,3.5,0
+U032,T042,In Progress,3.3,0
+U032,T049,Not Started,0.0,0
+U032,T036,Skipped,1.3,1
+U033,T109,In Progress,1.9,0
+U033,T117,Completed,13.3,5
+U033,T011,In Progress,3.2,0
+U033,T014,Completed,8.5,3
+U033,T042,Completed,12.3,3
+U033,T066,Completed,12.4,3
+U033,T032,Completed,9.8,3
+U033,T006,In Progress,1.9,0
+U033,T072,Completed,16.3,4
+U033,T063,Completed,11.0,5
+U033,T086,Completed,10.3,5
+U033,T116,Completed,13.4,5
+U033,T002,Completed,6.5,3
+U033,T013,Completed,11.6,4
+U033,T044,Completed,14.4,3
+U033,T039,Completed,15.9,4
+U033,T043,Completed,14.1,3
+U033,T068,In Progress,3.7,0
+U033,T095,Completed,14.6,4
+U033,T046,In Progress,6.6,0
+U033,T048,Completed,15.1,5
+U034,T047,In Progress,4.9,0
+U034,T042,Completed,12.0,5
+U034,T026,Completed,16.0,4
+U034,T059,Not Started,0.0,0
+U034,T015,In Progress,3.2,0
+U034,T034,Completed,6.7,3
+U034,T086,Completed,9.7,5
+U034,T111,Completed,9.3,5
+U034,T063,Completed,10.5,5
+U034,T068,In Progress,5.9,0
+U034,T124,Not Started,0.0,0
+U034,T082,Completed,14.3,4
+U034,T041,Completed,9.7,4
+U034,T077,In Progress,7.6,0
+U034,T050,Not Started,0.0,0
+U035,T018,Completed,8.4,5
+U035,T025,In Progress,4.2,0
+U035,T105,In Progress,3.8,0
+U035,T050,In Progress,6.2,0
+U035,T072,Not Started,0.0,0
+U035,T065,Completed,6.9,3
+U035,T084,Completed,12.0,4
+U035,T064,Completed,8.1,3
+U035,T053,Completed,15.6,3
+U035,T088,Completed,9.0,5
+U035,T063,Completed,8.9,5
+U035,T054,Completed,13.0,3
+U035,T091,In Progress,7.2,0
+U035,T108,Completed,12.7,5
+U035,T057,Completed,13.0,5
+U035,T115,Completed,9.6,5
+U035,T022,Not Started,0.0,0
+U035,T011,In Progress,1.7,0
+U035,T073,Not Started,0.0,0
+U035,T004,In Progress,3.3,0
+U035,T102,Not Started,0.0,0
+U035,T098,In Progress,2.1,0
+U035,T029,In Progress,3.9,0
+U035,T038,In Progress,3.7,0
+U035,T005,In Progress,2.2,0
+U035,T036,Completed,7.5,4
+U035,T103,Completed,16.2,3
+U035,T069,Completed,8.1,3
+U035,T037,Completed,6.7,5
+U035,T109,Skipped,1.0,2
+U035,T059,Completed,4.5,5
+U035,T107,Completed,16.7,5
+U035,T118,In Progress,3.8,0
+U035,T071,Completed,9.5,3
+U035,T066,Not Started,0.0,0
+U036,T064,Completed,8.8,4
+U036,T035,Completed,10.5,3
+U036,T042,In Progress,1.4,0
+U036,T107,Not Started,0.0,0
+U036,T037,Completed,9.7,3
+U036,T044,Skipped,1.6,2
+U036,T071,Completed,12.7,3
+U036,T074,Completed,15.7,3
+U036,T017,Completed,9.5,5
+U036,T073,In Progress,2.5,0
+U036,T110,In Progress,2.8,0
+U036,T063,Completed,11.9,3
+U036,T101,In Progress,6.4,0
+U036,T115,In Progress,1.8,0
+U036,T088,Completed,10.2,4
+U036,T098,In Progress,3.5,0
+U037,T050,Skipped,2.9,2
+U037,T012,In Progress,1.2,0
+U037,T094,Completed,10.2,5
+U037,T104,In Progress,4.9,0
+U037,T014,Completed,6.6,3
+U037,T121,Completed,8.0,5
+U037,T041,Completed,6.4,4
+U037,T048,In Progress,6.5,0
+U037,T113,In Progress,3.7,0
+U037,T039,Completed,8.6,5
+U037,T018,Completed,7.4,5
+U037,T049,Completed,11.6,3
+U037,T100,Completed,11.7,4
+U037,T105,Completed,12.3,3
+U037,T097,Not Started,0.0,0
+U037,T115,Skipped,1.1,3
+U037,T083,Completed,12.1,3
+U037,T087,In Progress,4.7,0
+U037,T019,In Progress,1.0,0
+U037,T009,Completed,3.9,3
+U037,T068,Skipped,2.6,2
+U037,T073,Completed,7.1,5
+U037,T002,In Progress,2.1,0
+U037,T079,Completed,11.6,5
+U037,T084,Completed,7.8,4
+U037,T022,Completed,8.8,3
+U037,T057,Completed,10.6,5
+U037,T045,In Progress,4.7,0
+U037,T093,Completed,7.9,4
+U037,T028,In Progress,6.9,0
+U037,T081,Completed,8.7,4
+U037,T020,Completed,6.2,3
+U038,T086,Completed,6.2,5
+U038,T095,Completed,12.3,5
+U038,T085,Completed,12.6,5
+U038,T124,Completed,13.6,5
+U038,T023,Completed,9.5,3
+U038,T016,In Progress,4.3,0
+U038,T002,Completed,5.6,3
+U038,T091,Completed,13.9,3
+U038,T018,Completed,9.1,3
+U038,T090,Completed,10.7,3
+U038,T119,Completed,8.2,5
+U038,T021,In Progress,2.5,0
+U038,T064,Completed,8.2,4
+U038,T045,Completed,8.3,4
+U038,T067,Completed,8.8,3
+U038,T111,Completed,6.8,3
+U038,T101,Not Started,0.0,0
+U038,T106,Completed,18.7,4
+U038,T093,In Progress,3.6,0
+U038,T034,Completed,5.2,4
+U038,T022,Completed,9.6,4
+U038,T048,In Progress,3.9,0
+U038,T017,Completed,7.1,3
+U038,T096,In Progress,4.7,0
+U038,T100,In Progress,4.4,0
+U038,T035,Skipped,0.6,3
+U038,T094,Completed,12.7,3
+U038,T120,Not Started,0.0,0
+U038,T004,Completed,5.5,5
+U039,T014,Completed,7.7,3
+U039,T037,Completed,5.9,4
+U039,T098,Skipped,1.4,3
+U039,T041,Completed,7.3,3
+U039,T074,Completed,8.6,5
+U039,T093,Completed,9.3,4
+U039,T008,Completed,6.1,5
+U039,T019,Completed,5.7,4
+U039,T046,Completed,10.8,3
+U039,T012,Completed,5.7,4
+U039,T006,In Progress,2.7,0
+U039,T040,Completed,9.2,4
+U039,T097,Completed,10.0,4
+U039,T073,Completed,7.3,4
+U039,T068,Completed,10.8,3
+U039,T089,Not Started,0.0,0
+U039,T114,In Progress,4.8,0
+U039,T095,Completed,10.2,3
+U039,T109,In Progress,1.6,0
+U039,T048,Completed,13.8,3
+U039,T007,Completed,5.7,4
+U039,T043,In Progress,6.0,0
+U039,T009,Completed,5.4,3
+U039,T061,Completed,4.6,5
+U039,T096,Completed,9.4,4
+U039,T036,Completed,8.3,3
+U039,T005,Completed,4.3,5
+U039,T090,Completed,8.2,5
+U039,T047,Completed,10.1,3
+U040,T036,In Progress,1.6,0
+U040,T058,Completed,9.0,3
+U040,T114,Skipped,2.6,1
+U040,T020,Skipped,1.8,1
+U040,T005,Not Started,0.0,0
+U040,T079,Skipped,2.2,3
+U040,T080,Skipped,1.7,3
+U040,T032,In Progress,2.8,0
+U040,T083,Completed,14.3,3
+U040,T038,Completed,8.2,4
+U040,T064,Completed,10.5,5
+U040,T053,In Progress,6.4,0
+U040,T113,Completed,6.4,3
+U041,T035,Not Started,0.0,0
+U041,T069,Completed,9.4,4
+U041,T105,Skipped,4.1,3
+U041,T102,Completed,24.3,5
+U041,T118,In Progress,4.8,0
+U041,T095,Completed,19.7,4
+U041,T008,In Progress,1.7,0
+U041,T098,Completed,9.9,5
+U041,T122,Completed,18.2,3
+U041,T029,Completed,18.8,3
+U041,T074,Completed,11.8,4
+U041,T109,Completed,7.7,5
+U041,T103,Not Started,0.0,0
+U041,T050,In Progress,8.1,0
+U041,T046,Skipped,3.2,2
+U041,T120,In Progress,6.4,0
+U041,T108,In Progress,4.4,0
+U042,T018,Completed,10.0,5
+U042,T021,Completed,9.6,5
+U042,T094,Completed,11.9,5
+U042,T122,Completed,12.8,4
+U042,T056,Completed,12.4,3
+U042,T102,Completed,14.9,5
+U042,T082,In Progress,2.7,0
+U042,T063,In Progress,4.2,0
+U042,T084,In Progress,4.2,0
+U042,T041,Completed,6.8,3
+U042,T023,Completed,11.4,5
+U042,T091,Completed,12.2,5
+U042,T072,Completed,9.5,4
+U042,T089,Completed,7.1,5
+U042,T079,Completed,14.9,5
+U042,T101,In Progress,7.6,0
+U042,T046,Completed,10.1,3
+U042,T029,Completed,11.9,3
+U042,T086,Completed,5.7,4
+U042,T076,Completed,10.1,3
+U042,T105,Completed,20.3,4
+U042,T115,In Progress,3.7,0
+U042,T049,In Progress,6.0,0
+U042,T040,Completed,7.3,4
+U042,T123,Completed,9.6,5
+U042,T112,Completed,9.4,5
+U042,T038,Completed,5.9,3
+U042,T017,Completed,6.1,5
+U042,T104,In Progress,3.6,0
+U042,T110,Completed,5.1,4
+U043,T036,In Progress,2.3,0
+U043,T013,Skipped,1.7,1
+U043,T004,In Progress,2.7,0
+U043,T037,Completed,8.4,5
+U043,T032,In Progress,4.0,0
+U043,T048,Completed,14.8,4
+U043,T011,Skipped,1.3,3
+U043,T091,In Progress,8.0,0
+U043,T015,In Progress,1.9,0
+U043,T060,Completed,8.6,5
+U043,T071,Completed,13.9,5
+U043,T112,Skipped,1.9,3
+U043,T093,Completed,17.7,4
+U043,T044,Completed,17.9,3
+U043,T012,Skipped,0.6,2
+U043,T070,Completed,16.1,3
+U043,T095,Not Started,0.0,0
+U043,T034,In Progress,3.1,0
+U043,T087,Completed,12.2,3
+U043,T035,Completed,9.2,5
+U043,T092,Completed,13.7,4
+U043,T097,Not Started,0.0,0
+U043,T039,Completed,16.2,5
+U043,T003,In Progress,2.5,0
+U043,T017,In Progress,1.6,0
+U044,T014,In Progress,2.6,0
+U044,T113,Completed,7.9,4
+U044,T013,In Progress,1.7,0
+U044,T047,In Progress,3.5,0
+U044,T109,Completed,6.3,5
+U044,T065,In Progress,4.1,0
+U044,T073,Completed,7.9,5
+U044,T044,Completed,11.5,4
+U044,T070,In Progress,5.0,0
+U044,T093,Completed,10.3,4
+U044,T091,In Progress,7.0,0
+U044,T005,In Progress,2.4,0
+U044,T033,Completed,4.7,4
+U044,T046,In Progress,4.4,0
+U044,T072,In Progress,4.6,0
+U044,T019,Completed,4.8,3
+U044,T060,In Progress,1.9,0
+U044,T059,Completed,5.9,5
+U044,T064,Completed,7.1,4
+U044,T114,Completed,10.9,3
+U044,T036,In Progress,2.2,0
+U044,T003,Completed,6.2,4
+U044,T089,Completed,7.0,3
+U045,T096,Completed,14.5,3
+U045,T107,Skipped,4.1,3
+U045,T089,Completed,12.2,5
+U045,T012,Completed,8.4,3
+U045,T037,Completed,10.1,4
+U045,T004,In Progress,2.8,0
+U045,T050,Completed,22.6,4
+U045,T007,In Progress,1.5,0
+U045,T021,Completed,12.1,5
+U045,T110,Completed,6.3,5
+U045,T074,Not Started,0.0,0
+U045,T100,Not Started,0.0,0
+U045,T124,Skipped,2.8,3
+U045,T028,In Progress,3.8,0
+U045,T029,Completed,14.9,4
+U045,T083,In Progress,8.8,0
+U045,T087,Completed,11.4,5
+U045,T027,Completed,12.9,3
+U046,T117,In Progress,4.4,0
+U046,T072,Not Started,0.0,0
+U046,T061,Skipped,0.8,3
+U046,T018,Completed,13.7,4
+U046,T004,Not Started,0.0,0
+U046,T094,In Progress,5.0,0
+U046,T048,Skipped,3.2,3
+U046,T044,Completed,12.6,3
+U046,T074,In Progress,5.1,0
+U046,T118,In Progress,6.6,0
+U046,T070,Not Started,0.0,0
+U047,T084,Completed,9.9,3
+U047,T012,In Progress,1.4,0
+U047,T029,Not Started,0.0,0
+U047,T046,Completed,13.2,4
+U047,T123,Completed,11.6,3
+U047,T096,In Progress,4.4,0
+U047,T112,Completed,7.6,5
+U047,T040,Completed,8.3,3
+U047,T054,In Progress,3.4,0
+U047,T101,In Progress,6.2,0
+U047,T114,In Progress,2.4,0
+U047,T043,Completed,9.8,4
+U047,T048,Completed,12.5,3
+U047,T034,Completed,4.8,4
+U047,T075,Not Started,0.0,0
+U047,T038,In Progress,3.5,0
+U047,T060,Completed,5.4,3
+U047,T016,Completed,7.8,5
+U047,T061,In Progress,1.8,0
+U047,T007,Completed,5.3,4
+U047,T082,Completed,12.6,4
+U047,T111,Skipped,1.1,3
+U047,T104,Completed,13.0,5
+U047,T080,Not Started,0.0,0
+U047,T010,Completed,7.0,4
+U047,T107,In Progress,4.0,0
+U047,T025,Skipped,2.9,1
+U047,T065,Completed,6.7,3
+U047,T108,Completed,10.9,5
+U047,T088,Completed,8.1,5
+U048,T069,Completed,10.7,4
+U048,T043,In Progress,2.7,0
+U048,T109,In Progress,1.2,0
+U048,T007,In Progress,1.3,0
+U048,T116,In Progress,4.1,0
+U048,T014,In Progress,2.9,0
+U048,T003,Skipped,1.2,3
+U048,T115,Completed,11.4,3
+U048,T015,In Progress,3.0,0
+U048,T074,In Progress,5.5,0
+U048,T087,Not Started,0.0,0
+U049,T091,Skipped,3.4,3
+U049,T053,Skipped,1.7,1
+U049,T038,Skipped,0.7,3
+U049,T021,Completed,7.8,3
+U049,T006,In Progress,3.4,0
+U049,T071,Completed,7.5,3
+U049,T064,Not Started,0.0,0
+U049,T117,Not Started,0.0,0
+U049,T027,In Progress,5.4,0
+U049,T089,In Progress,1.8,0
+U049,T120,Not Started,0.0,0
+U049,T062,Not Started,0.0,0
+U049,T043,Completed,8.1,5
+U049,T031,Completed,6.3,4
+U049,T001,Not Started,0.0,0
+U049,T002,Completed,6.6,4
+U050,T034,In Progress,2.5,0
+U050,T015,Not Started,0.0,0
+U050,T072,Skipped,1.4,2
+U050,T117,Skipped,2.0,3
+U050,T089,Not Started,0.0,0
+U050,T045,Skipped,2.5,2
+U050,T070,Not Started,0.0,0
+U050,T092,Completed,10.9,3
+U050,T074,Completed,11.3,3
+U050,T032,Skipped,1.6,3
+U050,T118,In Progress,4.8,0
+U050,T017,Not Started,0.0,0
+U050,T008,Skipped,1.0,3
+U050,T031,Skipped,1.3,2
+U050,T014,Skipped,1.0,2

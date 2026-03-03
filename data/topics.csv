@@ -1,0 +1,126 @@
+topic_id,topic_name,domain,difficulty,estimated_hours
+T001,Python Basics,Python,Beginner,6
+T002,Variables & Data Types,Python,Beginner,5
+T003,Control Flow,Python,Beginner,6
+T004,Loops,Python,Beginner,5
+T005,String Manipulation,Python,Beginner,4
+T006,Lists & Tuples,Python,Beginner,5
+T007,Dictionaries,Python,Beginner,5
+T008,File Handling,Python,Beginner,6
+T009,Error Handling,Python,Beginner,5
+T010,Modules & Packages,Python,Beginner,6
+T011,Functions,Python,Intermediate,7
+T012,Lambda Functions,Python,Intermediate,5
+T013,Decorators,Python,Intermediate,8
+T014,Generators,Python,Intermediate,7
+T015,Context Managers,Python,Intermediate,6
+T016,Regular Expressions,Python,Intermediate,8
+T017,JSON & CSV Handling,Python,Intermediate,6
+T018,Testing with pytest,Python,Intermediate,9
+T019,Virtual Environments,Python,Intermediate,5
+T020,Python Best Practices,Python,Intermediate,7
+T021,OOP Concepts,Python,Advanced,8
+T022,Inheritance & Polymorphism,Python,Advanced,9
+T023,Magic Methods,Python,Advanced,10
+T024,Metaclasses,Python,Advanced,12
+T025,Async Programming,Python,Advanced,11
+T026,Multithreading,Python,Advanced,10
+T027,Multiprocessing,Python,Advanced,10
+T028,Memory Management,Python,Advanced,11
+T029,Design Patterns,Python,Advanced,12
+T030,Python C Extensions,Python,Advanced,14
+T031,Arrays,DSA,Beginner,6
+T032,Basic Recursion,DSA,Beginner,7
+T033,Time Complexity,DSA,Beginner,5
+T034,Space Complexity,DSA,Beginner,5
+T035,Two Pointers,DSA,Beginner,6
+T036,Sliding Window,DSA,Beginner,7
+T037,Prefix Sum,DSA,Beginner,6
+T038,Hashing Basics,DSA,Beginner,6
+T039,Data Structures,DSA,Intermediate,10
+T040,Linked Lists,DSA,Intermediate,8
+T041,Doubly Linked Lists,DSA,Intermediate,7
+T042,Stacks & Queues,DSA,Intermediate,7
+T043,Trees,DSA,Intermediate,9
+T044,Binary Search Trees,DSA,Intermediate,10
+T045,Heaps,DSA,Intermediate,9
+T046,Graphs,DSA,Intermediate,11
+T047,DFS & BFS,DSA,Intermediate,10
+T048,Dynamic Programming Intro,DSA,Intermediate,12
+T049,Sorting Algorithms,DSA,Advanced,12
+T050,Advanced Trees,DSA,Advanced,13
+T051,Tries,DSA,Advanced,11
+T052,Segment Trees,DSA,Advanced,14
+T053,Advanced Graphs,DSA,Advanced,13
+T054,Shortest Path Algorithms,DSA,Advanced,12
+T055,Advanced DP,DSA,Advanced,15
+T056,Greedy Algorithms,DSA,Advanced,11
+T057,Backtracking,DSA,Advanced,13
+T058,Bit Manipulation,DSA,Advanced,10
+T059,HTML Basics,Web Development,Beginner,5
+T060,CSS Fundamentals,Web Development,Beginner,6
+T061,CSS Flexbox,Web Development,Beginner,5
+T062,CSS Grid,Web Development,Beginner,6
+T063,JavaScript Basics,Web Development,Beginner,8
+T064,DOM Manipulation,Web Development,Beginner,7
+T065,Events & Forms,Web Development,Beginner,6
+T066,Responsive Design,Web Development,Beginner,7
+T067,ES6 Features,Web Development,Intermediate,8
+T068,Async JavaScript,Web Development,Intermediate,9
+T069,Fetch API,Web Development,Intermediate,7
+T070,React Basics,Web Development,Intermediate,10
+T071,React Hooks,Web Development,Intermediate,9
+T072,State Management,Web Development,Intermediate,10
+T073,React Router,Web Development,Intermediate,8
+T074,Node.js Basics,Web Development,Intermediate,9
+T075,Express.js,Web Development,Intermediate,10
+T076,Redux,Web Development,Advanced,11
+T077,Next.js,Web Development,Advanced,12
+T078,TypeScript,Web Development,Advanced,11
+T079,GraphQL,Web Development,Advanced,13
+T080,Testing React Apps,Web Development,Advanced,10
+T081,Web Performance,Web Development,Advanced,12
+T082,Security Best Practices,Web Development,Advanced,11
+T083,Microservices,Web Development,Advanced,14
+T084,Docker Basics,Web Development,Advanced,10
+T085,CI/CD Pipelines,Web Development,Advanced,12
+T086,ML Introduction,Machine Learning,Beginner,6
+T087,NumPy Basics,Machine Learning,Beginner,7
+T088,Pandas Basics,Machine Learning,Beginner,8
+T089,Data Visualization,Machine Learning,Beginner,7
+T090,Statistics Fundamentals,Machine Learning,Beginner,9
+T091,Supervised Learning,Machine Learning,Intermediate,12
+T092,Linear Regression,Machine Learning,Intermediate,10
+T093,Logistic Regression,Machine Learning,Intermediate,10
+T094,Decision Trees,Machine Learning,Intermediate,11
+T095,Random Forests,Machine Learning,Intermediate,11
+T096,Feature Engineering,Machine Learning,Intermediate,10
+T097,Model Evaluation,Machine Learning,Intermediate,9
+T098,Cross Validation,Machine Learning,Intermediate,8
+T099,Neural Networks,Machine Learning,Advanced,15
+T100,Deep Learning,Machine Learning,Advanced,16
+T101,CNNs,Machine Learning,Advanced,14
+T102,RNNs & LSTMs,Machine Learning,Advanced,15
+T103,Transformers,Machine Learning,Advanced,16
+T104,Transfer Learning,Machine Learning,Advanced,13
+T105,GANs,Machine Learning,Advanced,17
+T106,Reinforcement Learning,Machine Learning,Advanced,18
+T107,MLOps,Machine Learning,Advanced,14
+T108,Model Deployment,Machine Learning,Advanced,12
+T109,SQL Basics,Database,Beginner,6
+T110,SELECT Queries,Database,Beginner,5
+T111,Filtering & Sorting,Database,Beginner,6
+T112,Joins,Database,Beginner,8
+T113,Aggregations,Database,Beginner,7
+T114,Database Design,Database,Intermediate,10
+T115,Normalization,Database,Intermediate,9
+T116,Indexes,Database,Intermediate,8
+T117,Transactions,Database,Intermediate,9
+T118,Stored Procedures,Database,Intermediate,10
+T119,Views,Database,Intermediate,7
+T120,Query Optimization,Database,Advanced,12
+T121,NoSQL Databases,Database,Advanced,11
+T122,MongoDB,Database,Advanced,12
+T123,Redis,Database,Advanced,10
+T124,Database Sharding,Database,Advanced,13
+T125,Replication,Database,Advanced,12
